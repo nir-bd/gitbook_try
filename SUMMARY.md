@@ -4,7 +4,7 @@
 
 ## Guides
 
-* [Title](guides/title.md)
+* [Tensorleap Guide](guides/tensorleap-guide.md)
 * [Page 1](guides/page-1.md)
 * [Creating your first project](guides/creating-your-first-project.md)
 * [The title](guides/the-title.md)
